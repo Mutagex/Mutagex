@@ -46,6 +46,7 @@ A **Mutagex** é um estúdio de software. A gente não acredita em produto que n
 |--------|---------|--------|
 | **Dominifin** | App de educação e organização financeira pessoal com IA | 🟢 ativo |
 | **LeadWard** | Motor de qualificação e roteamento de leads | 🟢 ativo |
+| **MGX** | Site institucional completo (cliente do estúdio) | 🟡 a lançar |
 | **Site Mutagex** | Landing one-page do estúdio (Next.js + animações) | 🟢 ativo |
 
 ## 📊 GitHub
